@@ -72,11 +72,6 @@
 
 ---
 
-## 📂 Projetos em Destaque
-* **[Social Media Graph Analysis](https://github.com/cristianorr38/nome-do-seu-projeto)**: Protótipo funcional em Cypher (Neo4j) para análise de engajamento e comunidades.
-
----
-
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-rodrigues-rosa-47671224)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianorr2009@gmail.com)
