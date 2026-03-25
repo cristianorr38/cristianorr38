@@ -12,13 +12,13 @@
 
 ## 👤 Sobre mim / About me
 
-🇧🇷
+🇧🇷 Brasil
 - 🤔 Analista de Sistemas focado em transformar dados complexos em insights estratégicos.
 - 🎓 Estudante de Ciência de Dados, Analytics e BI na Universidade Guarulhos (UnG) | Pós-Graduação
 - 💼 Trabalho como Analista de Sistemas na Empresa Lepe Indústria e Comércio LTDA.
 - 🌱 Aprendendo sobre Ciência de Dados e Inteligência Artificial (IA).
 
-🇺🇸
+🇺🇸 USA
 - 🤔 Systems Analyst focused on transforming complex data into strategic insights.
 - 🎓 Student of Data Science, Analytics, and BI at Guarulhos University (UnG) | Postgraduate Studies
 - 💼 Working as a Systems Analyst at Lepe Indústria e Comércio LTDA.
@@ -30,33 +30,36 @@
 
 ### 💻 Aplicações e Dados
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=Sql)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<!-- Linguagens de Programação -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<!-- Bancos de Dados -->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### ♾️ DevOps
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Colab](https://img.shields.io/badge/-GoogleColab-333333?style=flat&logo=colab)
-![Jupyter](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=jupyter)
+<!-- Ferramentas -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ### 🛠️ Ferramentas de Desenvolvimento
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+<!-- IDEs -->
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
