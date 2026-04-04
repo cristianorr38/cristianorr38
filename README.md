@@ -12,13 +12,13 @@
 
 ## 👤 Sobre mim / About me
 
-🇧🇷 Brasil
+🇧🇷 - Brasil
 - 🤔 Analista de Sistemas focado em transformar dados complexos em insights estratégicos.
 - 🎓 Estudante de Ciência de Dados, Analytics e BI na Universidade Guarulhos (UnG) | Pós-Graduação
 - 💼 Trabalho como Analista de Sistemas na Empresa Lepe Indústria e Comércio LTDA.
 - 🌱 Aprendendo sobre Ciência de Dados e Inteligência Artificial (IA).
 
-🇺🇸 USA
+🇺🇸 - USA
 - 🤔 Systems Analyst focused on transforming complex data into strategic insights.
 - 🎓 Student of Data Science, Analytics, and BI at Guarulhos University (UnG) | Postgraduate Studies
 - 💼 Working as a Systems Analyst at Lepe Indústria e Comércio LTDA.
@@ -47,16 +47,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 🛠️ Ferramentas & IDEs
+### 🛠️ Tecnologias e Ferramentas
 <!-- Ferramentas -->
+
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
@@ -71,6 +75,8 @@
 ## 🐍 Atividade no GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cristianorr38&theme=gruvbox&hide_border=true&fire=40c463&ring=40c463&currStreakLabel=40c463)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianorr38&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianorr38&layout=compact&theme=radical)
 
 ---
 
