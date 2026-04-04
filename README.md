@@ -70,6 +70,8 @@
 
 [![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=cristianorr38&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/cristianorr38)
 
+![Metrics](./metrics.svg)
+
 ---
 
 ## 🐍 Atividade no GitHub
