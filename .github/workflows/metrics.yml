@@ -1,1 +1,16 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 * * * *"}] # Atualiza a cada hora
+  workflow_dispatch: # Permite rodar manualmente
 
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: cristianorr38
+          template: classic
+          base: header, languages
+          config_timezone: America/Sao_Paulo
