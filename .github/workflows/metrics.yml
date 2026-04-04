@@ -13,6 +13,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: cristianorr38
           template: classic
-          base: header, languages
+          base: header, languages, activity, repositories
           config_timezone: America/Sao_Paulo
           filename: metrics.svg
