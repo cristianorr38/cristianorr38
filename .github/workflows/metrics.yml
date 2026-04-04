@@ -1,8 +1,8 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 * * * *" # Atualiza a cada hora
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   github-metrics:
@@ -15,3 +15,4 @@ jobs:
           template: classic
           base: header, languages
           config_timezone: America/Sao_Paulo
+          filename: metrics.svg
