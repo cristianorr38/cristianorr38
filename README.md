@@ -77,8 +77,6 @@
 
 ## 🐍 Atividade no GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cristianorr38&theme=gruvbox&hide_border=true&fire=40c463&ring=40c463&currStreakLabel=40c463)](https://git.io/streak-stats)
-
 ![Commit](https://img.shields.io/badge/Commits-100+-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-50+-yellow?style=for-the-badge)
 ![Followers](https://img.shields.io/badge/Followers-20+-green?style=for-the-badge)
