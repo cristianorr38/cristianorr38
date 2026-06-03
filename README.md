@@ -6,7 +6,7 @@
 
 > **Bacharel em Ciência da Computação**
 
-> **Estudante de Ciência e Análise de Dados**
+> **Estudante de Data Science, Analytics, BI e Inteligência Artificial**
 
 ---
 
